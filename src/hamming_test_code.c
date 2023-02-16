@@ -1,22 +1,6 @@
 #include "stdio.h"
 #include "string.h"
-//
-//int main() {
-//    int a = 25, b = -25, c = 3;
-//
-//
-//    for (int j = 0; j < 20; j++) {
-//        for (int i = 0; i < 50; i++) {
-//            a = 23*a + b - j*c;
-//        }
-//    }
-//
-//    c = -a;
-//
-//        printf("c = %d\n",c);
-//
-//    return c;
-//}
+
 
 int main() {
     unsigned int data, temp, test, j, k, max_count;
